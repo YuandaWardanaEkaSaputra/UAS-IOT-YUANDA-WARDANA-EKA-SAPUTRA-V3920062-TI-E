@@ -1,5 +1,5 @@
 # UAS-IOT-YUANDA-WARDANA-EKA-SAPUTRA-V3920062-TI-E
-Alat yang di gunakan :
+Komponen :
 -Arduino UNO R3
 -Virtual Terminal
 -MCP 9701A
